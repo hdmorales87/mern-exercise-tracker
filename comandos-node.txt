@@ -1,0 +1,14 @@
+--NODE
+node -v
+npx create-react-app mern-exercise-tracker
+mkdir backend
+npm init -y
+npm install express cors mongoose dotenv
+npm install nodemon -g
+nodemon serve.js
+--REACT
+npm start
+npm install bootstrap
+npm install react-datepicker
+npm install axios
+npm install react-router-dom
